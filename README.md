@@ -1,2 +1,7 @@
 # hello-world
-new repository
+Hello
+
+
+eu sou tuga 
+
+:)
